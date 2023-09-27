@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "First git clone pipeline"
+echo "First git clone pipelines"
